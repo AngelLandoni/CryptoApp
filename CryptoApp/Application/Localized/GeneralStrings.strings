@@ -1,0 +1,12 @@
+/* 
+  GeneralStrings.strings
+  CryptoApp
+
+  Created by Angel Landoni on 26/06/2018.
+  Copyright © 2018 Angel Landoni. All rights reserved.
+*/
+
+list = "List";
+portfolio = "Portfolio";
+
+noInternetConnection = "No internet connection";

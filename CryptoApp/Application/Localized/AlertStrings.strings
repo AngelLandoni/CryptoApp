@@ -1,0 +1,18 @@
+/* 
+  AlertStrings.strings
+  CryptoApp
+
+  Created by Angel Landoni on 26/06/2018.
+  Copyright © 2018 Angel Landoni. All rights reserved.
+*/
+
+okButton = "Ok";
+
+operationFinishedTitle = "Operation finished!";
+operationFinishedMessage = "The operation was success!. You bought some coins.";
+
+amount = "Amount";
+buy = "Buy";
+cancel = "Cancel";
+errorOnLoading = "Error on loading. Try again!.";
+errorOnBuyCoin = "Error on buy coin. Try again later.";

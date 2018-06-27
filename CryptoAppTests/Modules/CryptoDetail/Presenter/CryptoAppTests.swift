@@ -6,8 +6,17 @@
 //  Copyright © 2018 Angel Landoni. All rights reserved.
 //
 
-import XCTest
+import Quick
+import Nimble
+
+class Crypto: QuickSpec {
+    override func spec() {
+        
+    }
+}
+
 @testable import CryptoApp
+
 
 class CryptoAppTests: XCTestCase {
     
